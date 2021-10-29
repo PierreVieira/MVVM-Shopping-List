@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="amount">Amount</string>
+    <string name="name">Name</string>
+    <string name="add_item">add item</string>
+    <string name="add_a_new_shopping_item">Add a new Shopping Item</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add">ADD</string>
+</resources>
